@@ -451,6 +451,10 @@ void Game::GameOver(RenderWindow* window){
             i = 3;
         }
     }
+    score = 0;
+    level = 1;
+    lines = 0;
+    text.setString(to_string(score));textLvl.setString(to_string(level));
     while(!Keyboard::isKeyPressed(Keyboard::Key::Escape)){}
 }
 

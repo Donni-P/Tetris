@@ -19,3 +19,23 @@
 	<vector>
 	<fstream>
 
+1658391941 source:c:\documents\github\tetris\main.cpp
+	<SFML/Graphics.hpp>
+	"head.h"
+	<iostream>
+	<vector>
+
+1658353061 c:\documents\github\tetris\head.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<fstream>
+
+1679244823 source:c:\documents\github\tetris\methods.cpp
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"head.h"
+	<vector>
+	<iostream>
+	<math.h>
+	<fstream>
+
