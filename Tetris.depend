@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1658391941 source:c:\users\Äåíèñ\desktop\ó÷¸áà\2 êóðñ 4 ñåì\ÎÎÏ\ëàáà1êáï\tetris\main.cpp
+	<SFML/Graphics.hpp>
+	"head.h"
+	<iostream>
+	<vector>
+
+1679215258 source:c:\users\Äåíèñ\desktop\ó÷¸áà\2 êóðñ 4 ñåì\ÎÎÏ\ëàáà1êáï\tetris\methods.cpp
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"head.h"
+	<vector>
+	<iostream>
+	<math.h>
+	<fstream>
+
+1658353061 c:\users\Äåíèñ\desktop\ó÷¸áà\2 êóðñ 4 ñåì\ÎÎÏ\ëàáà1êáï\tetris\head.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<fstream>
+
